@@ -12,7 +12,7 @@ iRay  | Programming
 
 local Release = "Beta 8"
 local NotificationDuration = 6.5
-local RayfieldFolder = "Rayfield"
+local RayfieldFolder = "Zel-inc"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
 
@@ -27,12 +27,12 @@ local RayfieldLibrary = {
 
 			Background = Color3.fromRGB(25, 25, 25),
 			Topbar = Color3.fromRGB(86, 1, 183),
-			Shadow = Color3.fromRGB(20, 20, 20),
+			Shadow = Color3.fromRGB(86, 1, 183),
 
 			NotificationBackground = Color3.fromRGB(20, 20, 20),
 			NotificationActionsBackground = Color3.fromRGB(230, 230, 230),
 
-			TabBackground = Color3.fromRGB(80, 80, 80),
+			TabBackground = Color3.fromRGB(86, 1, 183),
 			TabStroke = Color3.fromRGB(85, 85, 85),
 			TabBackgroundSelected = Color3.fromRGB(210, 210, 210),
 			TabTextColor = Color3.fromRGB(240, 240, 240),
@@ -48,7 +48,7 @@ local RayfieldLibrary = {
 			SliderProgress = Color3.fromRGB(43, 105, 159),
 			SliderStroke = Color3.fromRGB(48, 119, 177),
 
-			ToggleBackground = Color3.fromRGB(30, 30, 30),
+			ToggleBackground = Color3.fromRGB(86, 1, 183),
 			ToggleEnabled = Color3.fromRGB(0, 146, 214),
 			ToggleDisabled = Color3.fromRGB(100, 100, 100),
 			ToggleEnabledStroke = Color3.fromRGB(0, 170, 255),
